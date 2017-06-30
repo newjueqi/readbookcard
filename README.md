@@ -1,1 +1,1 @@
-# readbookcard
+存放开智部落的读书卡片
